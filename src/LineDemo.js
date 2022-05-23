@@ -40,7 +40,7 @@ const LineDemo = () => {
         </h2>
         <div style={{ paddingLeft: "1.5rem" }}>
           <LineChart
-            width={1464}
+            width={1284}
             height={450}
             data={totalRunsYearWise}
             margin={{ top: 5, right: 30, left: 0, bottom: 5 }}

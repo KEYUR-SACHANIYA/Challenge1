@@ -35,7 +35,7 @@ const BarDemo = () => {
           Sachin Tendulkar's Runs Per Match
         </h2>
         <div style={{ paddingLeft: "1.2rem" }}>
-          <BarChart width={1450} height={550} data={data} barGap={16}>
+          <BarChart width={1270} height={550} data={data} barGap={16}>
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey="date" />
             <YAxis
